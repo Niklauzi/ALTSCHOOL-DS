@@ -1,0 +1,758 @@
+shirt_no.,name,jersey_name,position,birthdate,team,club,club_country
+1,Signori Dominique Nymi António,Dominique,GK,25.07.1994,Angola,Etoile Carouge,Angola
+2,Nurio Domingos Matias Fortuna,Nurio,DF,24.03.1995,Angola,Gent KK,Angola
+3,Buatu Mananga Jonathan,Buatu,DF,27.09.1993,Angola,Valencinnes,Angola
+4,Keliano Manuel,Keliano,MF,16.01.2003,Angola,Estrela da Amadora,Angola
+5,Joaquim Marcos Cunga Balanga,Kinito,DF,13.03.1998,Angola,"Atletico Petroleos de Luanda
+",Angola
+6,Kialonda Gaspar,Gaspar,DF,27.09.1997,Angola,Estrela da Amadora,Angola
+7,Deivi Miguel Vieira,Gilberto,FW,10.03.2001,Angola,"Atlético Petróleos de Luand
+",Angola
+8,Benedito Mambuene Mukendi,Beni,MF,21.05.2002,Angola,Casa Pia FC,Angola
+9,"Ambrósini António Cabaça
+Salvador",Zini,FW,03.07.2002,Angola,AEK FC,Angola
+10,Jacinto Muondo Dala,Gelson,FW,13.07.1996,Angola,Al Wakrah,Angola
+11,Felicio Mendes Joao,Milson,FW,12.10.1999,Angola,Maccabi Tel Aviv,Angola
+12,Aldo Geraldo Manuel Monteiro,Kadu,GK,30.11.1994,Angola,Oliveira do Hospital,Angola
+13,"Corte Real Carneiro Augusto
+De Jesus",To Carneiro,DF,05.11.1995,Angola,Atletico petrolios,Angola
+14,Loide Antonio Augusto,Loide,DF,26.02.2000,Angola,Alanyaspor,Angola
+15,Zito André Sebastiao Luvumbo,Luvumbo,FW,09.03.2002,Angola,Cagliari,Angola
+16,Alfredo Kulembe Ribeiro,Fredy,MF,27.03.1990,Angola,Eyupspor,Angola
+17,Bruno L. Pinto De Almeida Paz,Bruno Paz,MF,23.04.1998,Angola,Konyasport,Angola
+18,Jérémie Bela,Bela,FW,08.04.1993,Angola,Clermont Foot,France
+19,Cristovao Paciencia,Mabululu,FW,01.06.1992,Angola,Al Ittihad Alexandria,Angola
+20,"Valdmiro Tualungo Paulo
+Lameira",Estrela,MF,22.09.1995,Angola,Erzurumspor,Angola
+21,Eddie Marcos Melo Afonso,Eddie,DF,07.03.1994,Angola,"atletico petroleos de luanda
+",Angola
+22,Adilson Da Cruz Cipriano,Neblu,GK,16.12.1993,Angola,"Clube Desportivo 1 de Agosto
+",Angola
+23,Manuel Luis Da Silva Cafumana,Show,MF,06.03.1999,Angola,Macabi Haifa,Angola
+24,Francisco Pedro Mangala,Gelson,GK,08.07.1999,Angola,GD Interclube,Angola
+25,"Inacio Miguel Ferreira Dos
+Santos",Inácio,DF,12.12.1995,Angola,"atletico petroleos de luanda
+",Angola
+26,Laurindo Dilson Maria Aurelio,Depu,FW,08.01.2000,Angola,Gil Vicente,Angola
+27,Francisco Gonçalves Sacalumbo,Banza,FW,17.12.1998,Angola,Anorthosis,Angola
+1,Moustafa Zeghba,ZEGHBA,GK,21.11.1990,Algeria,Damac F.C,Arabie Saoudite
+2,Aissa Mandi,MANDI,DF,22.10.1991,Algeria,VILLARREAL CF,Espagne
+3,"Kevin Daniel Guiton Van
+Kerkhouf",Guiton,DF,14.03.1996,Algeria,F.C.Metz,France
+4,Mohamed Amine Tougai,TOUGAI,DF,22.01.2000,Algeria,Esperance ST,Tunisie
+5,Ahmed Touba,Touba,DF,13.03.1998,Algeria,U.S.Lecce,Italie
+6,Ramiz Larbi Zerrouki,ZERROUKI,MF,26.05.1998,Algeria,Feyenoord Rotterdam,"Pays-
+Bas"
+7,Riyad Karim Mahrez,Mahrez,FW,21.02.1991,Algeria,Al Ahly Jeddah,"Arabie
+Saoudite"
+8,Mohammed Youcef Belaili,BELAILI,FW,14.03.1992,Algeria,MCAlger,Algérie
+9,Baghdad Bounedjah,Bounedjah,FW,24.11.1991,Algeria,Al Saad S.C,Qatar
+10,Sofiane Feghouli,Feghouli,MF,26.12.1989,Algeria,Fatih Karagumurk,Turquie
+11,Houssem Eddine Aouar,AOUAR,MF,30.06.1998,Algeria,AS.Rome,Italie
+12,Adam Mohamed Ounas,Ounas,FW,11.11.1996,Algeria,LOSC LIlle,France
+13,Islam Slimani,Slimani,FW,18.06.1988,Algeria,Coritiba Football Club,Brésil
+14,Hicham Boudaoui,BOUDAOUI,MF,23.09.1999,Algeria,O.G.C Nice,France
+15,Rayan Ait Nouri,AIT NOURI,DF,06.06.2001,Algeria,"Wolverhamton Wanderers FC
+",Royaume-Uni
+16,Anthony Louis Mandrea,MANDREA,GK,25.12.1996,Algeria,S.M. Caen,France
+17,Fares Chaibi,CHAIBI,MF,28.11.2002,Algeria,Eintracht Frankfort,Allemagne
+18,Mohammed El Amine Amoura,AMOURA,FW,09.05.2000,Algeria,Union Saint Gilloise,Belgique
+19,Nabil Bentaleb,Bentaleb,MF,24.11.1994,Algeria,Losc.Lille,France
+20,Youcef Atal,Atal,DF,17.05.1996,Algeria,O.G.C Nice,France
+21,Amir Selmane Rami Bensebaini,Bensebaini,DF,16.04.1995,Algeria,Borussia Dortmund,Allemagne
+22,Ismael Bennacer,Bennacer,MF,01.12.1997,Algeria,MILAN AC,Italie
+23,Adi-Rais Cobos Mbolhi,RAIS,GK,25.04.1986,Algeria,CRBelouizdad,Algérie
+24,Zineddine Belaid,Belaid,DF,20.03.1999,Algeria,USMAlger,Algérie
+25,Yasser Larouci,LAROUCI,DF,01.01.2001,Algeria,Sheffield United FC,"Royaume-
+Uni"
+26,Oussama Benbot,Benbot,GK,11.10.1994,Algeria,USMAlger,Algérie
+1,"Hillel-Yored Amilcar Tony
+Konate",KONATE,GK,28.12.1994,Burkina Faso,CHATEAUROUX,France
+2,Djibril Cheick Ouattara,OUATTARA D.,FW,19.09.1999,Burkina Faso,RS BERKANE,Maroc
+3,Abdoul Razack Guiebre,GUIEBRE,DF,17.07.1997,Burkina Faso,MODENA FC,Italie
+4,Adamo Nagalo,NAGALO,DF,22.09.2002,Burkina Faso,FC NORDJAELLAND,Danemark
+5,Yacouba Nasser Djiga,DJIGA,DF,15.11.2002,Burkina Faso,"Etoile Rouge de Belgrade
+",Serbie
+6,Sacha Jordan Banse,BANSE,MF,16.03.2001,Burkina Faso,VALENCIENNES,France
+7,"Dango Aboubacar Faissal
+Ouattara",D. A. OUATTARA,FW,11.02.2002,Burkina Faso,"AFC BOURNEMOUTH
+",Angleterre
+8,Cedric Badolo,BADOLO,MF,04.11.1998,Burkina Faso,FC SHERIF TIRASPOL,Moldavie
+9,Issa Kabore,KABORE,DF,12.05.2001,Burkina Faso,LUTON TOWN,Angleterre
+10,Bertrand Isidore Traore,TRAORE Bertrand,FW,06.09.1995,Burkina Faso,ASTON VILLA,Angleterre
+11,Mamady Alex Bangre,BANGRE,FW,15.06.2001,Burkina Faso,TOULOUSE FC,France
+12,Edmond Fayçial Tapsoba,TAPSOBA,DF,02.02.1999,Burkina Faso,"BAYER LEVERKUSEN
+",Allemagne
+13,Mohamed Konate,KONATE,FW,12.12.1997,Burkina Faso,AKHMAT GROZNY,Russie
+14,Issoufou Dayo,DAYO,DF,06.08.1991,Burkina Faso,RS BERKANE,Maroc
+15,Abdoul Fessal Tapsoba,TAPSOBA A.,FW,23.08.2001,Burkina Faso,AMIENS FC,France
+16,Kouakou Hervé Koffi,KOFFI,GK,16.10.1996,Burkina Faso,RSC CHARLEROI,Belgique
+17,Stéphane Aziz Ki,KI AZIZ,MF,06.03.1996,Burkina Faso,YOUNG AFIRCANS SC,Tanzanie
+18,Ismahila Ouédraogo,OUEDRAOGO I.,MF,05.11.1999,Burkina Faso,PANSERRAIKOS FC,Grèce
+19,Boureima Hassane Bande,BANDE,FW,30.10.1998,Burkina Faso,HJK HELSINKI,Finlande
+20,Gustavo Fabrice Sangare,SANGARE,MF,08.11.1996,Burkina Faso,"QUEVILLY ROUEN METROPOLE
+",France
+21,Valentin Nouma,NOUMA,DF,14.02.2000,Burkina Faso,FC Saint Eloi Lupopo,"R.D.
+Congo"
+22,Ibrahim Blati Toure,TOURE,MF,04.08.1994,Burkina Faso,PYRAMID FC,Égypte
+23,Kilian Basba Geeke Nikiema,NIKIEMA,GK,22.06.2003,Burkina Faso,Ado Den Haag,Pays-Bas
+24,Adama Guira,GUIRA,MF,24.04.1988,Burkina Faso,RACING RIOJA,Espagne
+25,Steeve Farid Yago,YAGO,DF,16.12.1992,Burkina Faso,ARIS LIMASSOL,Chypre
+26,Dramane Salou,SALOU,MF,22.05.1998,Burkina Faso,FC Urartu,Arménie
+27,Sebastien Koula Tou,TOU,GK,01.12.2004,Burkina Faso,FC SABADELL,Espagne
+1,Joseph Fabrice Ondoa Ebogo,Ondoa,GK,24.12.1995,Cameroon,Nime Olympique,France
+2,Harold-Desty Moukoudi,Moukoudi,DF,27.11.1997,Cameroon,AEK Athens,Grèce
+3,Moumi Ngamaleu Nicolas Brice,Moumi,FW,09.07.1994,Cameroon,Dinamo Moscou,Russie
+4,Christopher Maurice Wooh,WOOH,DF,18.09.2001,Cameroon,Rennes,France
+5,Tolo Nouhou,Nouhou,DF,23.06.1997,Cameroon,Seattle Sounders,USA
+6,Michel Kemen Olivier,KEMEN,MF,20.07.1996,Cameroon,Kayserispor,Turquie
+7,Clinton Mua Njie,Njie,FW,15.08.1993,Cameroon,Sivasspor,Turquie
+8,André Frank Zambo Anguissa,ANGUISSA,MF,16.11.1995,Cameroon,SSC Napoli,Italie
+9,Franck Mario Magri,MAGRI,FW,04.09.1999,Cameroon,FK Bodø/Glimt,Norvège
+10,Aboubakar Vincent,Aboubakar,FW,22.01.1992,Cameroon,Besiktas JK,Turquie
+11,Georges Kevin Nkoudou Mbida,Nkoudou,FW,13.02.1995,Cameroon,Damac FC,Arabie Saoudite
+12,Karl Brillant Toko Ekambi,TOKO EKAMBI,FW,14.09.1992,Cameroon,ABHA,Arabie Saoudite
+13,Leonel Christian Ateba Mbida,ATEBA MBIDA,FW,06.02.1999,Cameroon,Dynamo Douala,Cameroun
+14,Junior Baptiste Tchamadeu,Tchamadeu,DF,22.12.2003,Cameroon,Stoke City,Angleterre
+15,Oumar Gonzalez,Gonzalez,DF,25.02.1998,Cameroon,Al Reed,Cameroun
+16,Devis Rogers Epassy Mboka,EPASSY,GK,02.02.1993,Cameroon,ABBA,Arabie Saoudite
+17,Yvan Latour Neyou Noupa,NEYOU,MF,03.01.1997,Cameroon,CD Leganés,Espagne
+18,Darlin Zidane Yongwa Ngameni,YONGWA,DF,22.09.2000,Cameroon,FC Lorient,France
+19,Faris Pemi Moumbagna,MOUMBAGNA,FW,01.07.2000,Cameroon,FK Bodø/Glimt,Norvège
+20,Elliott Benjamin Njongoue,"N, Elliott",MF,05.11.2002,Cameroon,Reading,Angleterre
+21,Jean Charles Castelletto,CASTELLETTO,DF,26.01.1995,Cameroon,FC Nantes,France
+22,Jules Olivier Ntcham,NTCHAM,MF,09.02.1996,Cameroon,Samsunspor,Turquie
+23,Simon Brady Ngapandouetnbu,N. Simon,GK,12.04.2003,Cameroon,Olympique Marseille,France
+24,Andre Onana Onana,Onana,GK,02.04.1996,Cameroon,"MANCHESTER UNITED
+",Angleterre
+25,Malcom Narcisse Bokele Mputu,BOKELE,DF,12.02.2000,Cameroon,G. Bordeaux,France
+26,Enzo Gianni Tchato Mbiayi,TCHATO,DF,23.11.2002,Cameroon,Montpellier,France
+27,Doualla Wilfried Nathan,Doualla,MF,15.06.2006,Cameroon,Victoria United,Cameroun
+1,Josimar José Évora Dias,Vozinha,GK,03.06.1986,Cap Vert,AS Trencin,slovaque
+2,Ianique Dos Santos Tavares,Stopira,DF,20.05.1988,Cap Vert,Boavista da Praia,Cap Vert
+3,"Edilson Alberto Monteiro
+Sanches Borges",Diney,DF,17.01.1995,Cap Vert,Al Bataeh,Émirats arabes unis
+4,Roberto Carlos Lopes,Pico,DF,17.06.1992,Cap Vert,Shamrock Rovers,Irlande
+5,Logan Evans Costa,Logan Costa,DF,01.04.2001,Cap Vert,FC TOULOUSE,France
+6,"Ericksson Patrick Correia
+Andrade",Patrick,MF,09.02.1993,Cap Vert,Qarabagh,Azerbaïdjan
+7,Jovane Eduardo Borges Cabral,Jovane Cabral,FW,14.06.1998,Cap Vert,SALERNITANA,Italie
+8,João Paulo Moreira Fernandes,Fernandes,MF,26.05.1998,Cap Vert,SHERIFF TIRASPOL,Moldavie
+9,Gilson Benchimol Tavares,Benchimol,FW,29.12.2001,Cap Vert,"Sport Lisboa e Benfica
+",Portugal
+10,"Jamiro Gregory Monteiro
+Alvarenga",Jamiro Monteiro,MF,23.11.1993,Cap Vert,San Jose Earthquakes,USA
+11,Garry Mendes Rodrigues,Rodrigues,FW,27.11.1990,Cap Vert,Ankaraguçu,Turquie
+12,Márcio Salomão Brazão Da Rosa,Marcio Rosa,GK,23.02.1997,Cap Vert,Anadia,Portugal
+13,"Carlos Miguel Pereira
+Fernandes",Cuca,MF,09.01.1991,Cap Vert,União de Leiria,Portugal
+14,Deroy D'Encarnação Duarte,Duarte,MF,04.07.1999,Cap Vert,Fortuna Sittard,Pays-Bas
+15,"Laros Michael D'Encarnação
+Duarte",Laros Duarte,MF,28.02.1997,Cap Vert,Groningen,Pays-Bas
+16,Dylan Tavares Dos Santos,Dylan Tavares,DF,30.08.1996,Cap Vert,SC BASTIA,France
+17,Willy Johnson Semedo Afonso,Willy Semedo,FW,27.04.1994,Cap Vert,Omonia Nicosia,Chypre
+18,Kenny Rocha Santos,Rocha,MF,03.01.2000,Cap Vert,AEZ Zakaziou,Chypre
+19,"Bryan Alberto Junior Teixeira
+Silva",Teixeira,FW,01.09.2000,Cap Vert,Sturm Graz,Autriche
+20,Ryan Isaac Da Graça Mendes,Mendes,FW,08.01.1990,Cap Vert,Fatih Karagumruk,Turquie
+21,Tiago Manuel Dias Correia,Bebé,FW,12.07.1990,Cap Vert,RAYO VALLECANO,Espagne
+22,João Pedro Araújo Correia,João Correia,DF,05.09.1996,Cap Vert,GD Chaves,Portugal
+23,Steven Moreira,Steven Moreira,DF,13.08.1994,Cap Vert,COLUMBUS CREW SC,USA
+24,Dylan Ayrton Garcia Da Silva,Dylan,GK,10.02.1999,Cap Vert,Sintrense,Portugal
+25,"Hélio Sandro Oliveira Alves
+Varela",Helio Varela,FW,03.05.2002,Cap Vert,Portimonense SC,Portugal
+26,"Kevin Lenini Gonçalves Pereira
+De Pina",Kevin Pina,MF,27.01.1997,Cap Vert,FC Krasnodar,Russie
+1,Lionel Mpasi Nzau,MPASI,GK,01.08.1994,Congo Dr,Rodez,France
+2,Henock Inonga Baka,INONGA,DF,25.11.1994,Congo Dr,Simba SC,Tanzanie
+4,Brian Jephte Bayeye Kifutu,BAYEYE,DF,30.06.2000,Congo Dr,AS Ascoli,Italie
+5,Dylan Batubinsika Buduka,BATUBINSIKA,DF,15.02.1996,Congo Dr,AS SAINT ETIENNE,France
+6,Aaron Tshibola,TSHIBOLA,MF,02.01.1995,Congo Dr,HATTA CSCLUB,"Émirats arabes
+unis"
+7,Grady George Diangana,DIANGANA,MF,19.04.1998,Congo Dr,WEST BROMICH,Angleterre
+8,Samuel Alain Moutoussamy,MOUTOUSSAMY,MF,12.08.1996,Congo Dr,FC NANTES,France
+10,"Theo Mbulofeko Batombo
+Bongonda",T.BONGONDA,MF,20.11.1995,Congo Dr,SPARTAK MOSCOU,Russie
+11,Silas Mvumpa Katompa,SILAS,FW,06.10.1998,Congo Dr,Stuttgart VFB,Allemagne
+12,Joris Kayembe Ditu,J.KAYEMBE,DF,08.08.1994,Congo Dr,GENK,Belgique
+13,Meschack Elia Lina,MESCHACK,FW,06.08.1997,Congo Dr,BSC YOUNG BOYS,Suisse
+14,Gael Romeo Kakuta Mambenga,G.KAKUTA,MF,21.06.1991,Congo Dr,Amiens SC,France
+15,Rocky Bushiri Kisonga,BUSHIRI,DF,30.11.1999,Congo Dr,Hibernian FC,Écosse
+16,"Dimitry Jean Sylvain Bertaud
+Yaka",BERTAUD,GK,06.06.1998,Congo Dr,MHSC MONTPELLIER,France
+17,Cedric Bakambu,BAKAMBU,FW,11.04.1991,Congo Dr,GALATASARAY,Turquie
+18,Charles Pickel Monginda,PICKEL,MF,15.05.1997,Congo Dr,Cremonese,Italie
+19,Fiston Kalala Mayele,MAYELE,FW,24.06.1994,Congo Dr,Pyramds FC,Égypte
+20,Yoane Wissa,WISSA,FW,03.09.1996,Congo Dr,Brentford FC,Angleterre
+21,Baggio Siadi Ngusia,SIADI,GK,21.07.1997,Congo Dr,TP Mazembe,R.D. Congo
+22,Chancel Mangulu Mbemba,C.MBEMBA,DF,08.08.1994,Congo Dr,Olympique Marseille,France
+23,Simon Banza Bokote,BANZA,FW,13.08.1996,Congo Dr,FC Braga,Portugal
+24,"Gédeon Tchingoma Kalulu
+Kyatengwa",G.KALULU,DF,29.08.1997,Congo Dr,FC LORIENT,France
+25,Edo Kayembe Kayembe,E.KAYEMBE,MF,03.06.1998,Congo Dr,WATFORD FC,Angleterre
+26,Fuka Arthur Masuaku Kawela,MASUAKU,DF,07.11.1993,Congo Dr,BESIKTAS,Turquie
+1,Yahia Fofana,Y.FOFANA,GK,21.08.2000,Côte D'Ivoire,ANGERS SCO,France
+2,Ousmane Diomande,OUSMANE,DF,04.12.2003,Côte D'Ivoire,Sporting Lisbon,Portugal
+3,N'Clomande Ghislain Konan,G.KONAN,DF,27.12.1995,Côte D'Ivoire,Al Fayha club,Arabie Saoudite
+4,Jean Michael Seri,SERI,MF,19.07.1991,Côte D'Ivoire,Hull City Tigers,Angleterre
+5,Wilfried Stephane Singo,SINGO,DF,25.12.2000,Côte D'Ivoire,AS MONACO,France
+6,Seko Mohamed Fofana,FOFANA,MF,07.05.1995,Côte D'Ivoire,AL NASSR,Arabie Saoudite
+7,"Kouakou Odilon Dorgeless
+Kossounou",KOSSONOU,DF,04.01.2001,Côte D'Ivoire,"BAYER LEVERKUSEN
+",Allemagne
+8,Franck Yannick Kessie,KESSIE,MF,19.12.1996,Côte D'Ivoire,Al Ahly,Arabie Saoudite
+9,Jonathan Fousseni Bamba,BAMBA,FW,26.03.1996,Côte D'Ivoire,CELTA VIGO,Espagne
+10,Karim Konate,KONATE,FW,21.03.2004,Côte D'Ivoire,"FC RED BULL SALZBURG
+",Autriche
+11,"Jean Philippe Nils Stephan
+Krasso",KRASSO,FW,17.07.1997,Côte D'Ivoire,"Etoile Rouge de Belgrade
+",Serbie
+12,Willy-Arnaud Zobo Boly,W.BOLY,DF,03.02.1991,Côte D'Ivoire,Nottingham Forest,Angleterre
+13,Jeremie Boga,BOGA,FW,03.01.1997,Côte D'Ivoire,OGC NCE,France
+14,Oumar Diakite,DIAKITE,FW,20.12.2003,Côte D'Ivoire,Stade de Reims,France
+15,Max Alain Gradel,MAX GRADEL,FW,30.11.1987,Côte D'Ivoire,GAZIANTEP SPORT,Turquie
+16,Ayayi Charles Folly,FOLLY,GK,29.12.1990,Côte D'Ivoire,ASEC MIMOSAS,Côte D'ivoire
+17,Serge Alain Stephane Aurier,S.AURIER,DF,24.12.1992,Côte D'Ivoire,Nottingham Forest,Angleterre
+18,Ibrahim Sangare,SANGARE,MF,02.12.1997,Côte D'Ivoire,Nottingham Forest,Angleterre
+19,Nicolas Pepe,PEPE,FW,29.05.1995,Côte D'Ivoire,TRABZONSPOR,Turquie
+20,"Kouakou Christian Michael
+Kouame",C.CHRISTIAN,FW,06.12.1997,Côte D'Ivoire,ACF Fiorentina,Italie
+21,Obite Evan Ndicka,NDICKA,DF,20.08.1999,Côte D'Ivoire,AS ROMA,Italie
+22,Sebastien Romain Teddy Haller,HALLER,FW,22.06.1994,Côte D'Ivoire,Borussia Dortmund,Allemagne
+23,Badra Ali Sangare,BADRA ALI,GK,30.05.1986,Côte D'Ivoire,Sekhukhune United FC,"Afrique
+Du Sud"
+24,Simon Adingra,ADINGRA,FW,01.01.2002,Côte D'Ivoire,"Brighton & Hove Albion
+",Angleterre
+25,Idrissa Doumbia,DOUMBIA,MF,14.04.1998,Côte D'Ivoire,AL AHLI,Qatar
+26,Ismael J.Chester Diallo,DIALLO,DF,29.01.1997,Côte D'Ivoire,HAJDUK SPLIT,Croatie
+27,Jean Thierry Lazare Amani,LAZARE,MF,07.03.1998,Côte D'Ivoire,URSG,Belgique
+1,"Ahmed Naser Naser Mahmoud
+Moawad Elshenawi",A.ELSHENAWY,GK,14.05.1991,Egypt,Pyramids FC,Égypte
+2,Aly Gabr Gabr Mossad,ALI GABR,DF,01.01.1989,Egypt,Pyramids FC,Égypte
+3,"Mohamed Hany Gamal
+Eldemerdash",M.HANY,DF,02.02.1996,Egypt,Al Ahly SC,Égypte
+4,Omar Kamal Abd Elwahed,O.KAMAL,DF,29.09.1993,Egypt,Future F.C.,Égypte
+5,"Hamdy Fathy Abdelhalim Abdel
+Fattah",H.FATHY,MF,29.09.1994,Egypt,Al-Wakah SC,Qatar
+6,Ahmed Elsayed Hegazy Ali,HEGAZI,DF,25.01.1991,Egypt,ITTIHAD JEDDAH,"Arabie
+Saoudite"
+7,Mahmoud Ahmed Ibrahim Hassan,M.TREZEGUET,FW,01.10.1994,Egypt,TRABSZONSPOR,Turquie
+8,"Emam Ashour Metwaly
+Abdelghany",EMAM ASHOUR,MF,20.02.1998,Egypt,Al Ahly SC,Égypte
+9,"Ahmed Hassan Mohamed
+Abdelmonem Mohamed Mahgoub",A.HASSAN,FW,05.03.1993,Egypt,Pendikspor,Turquie
+10,"Mohamed Salah Salah Mahrous
+Ghaly",M.SALAH,FW,15.06.1992,Egypt,LIVERPOOL FC,Angleterre
+11,"Mahmoud Abdelmonem
+Abdelhamid Soliman",M.KAHRABA,FW,13.04.1994,Egypt,Al Ahly SC,Égypte
+12,"Mohamed Hamdy Mahmoud Sharf
+Edin",M.HAMDY,DF,15.03.1995,Egypt,Pyramids FC,Égypte
+13,"Ahmed Mohamed Abo Elfetouh
+Mohamed",A.FATOUH,DF,22.03.1998,Egypt,Zamalek SC,Égypte
+14,Marawan Attia Fahim Ghallab,M.ATTIA,MF,01.08.1998,Egypt,Al Ahly SC,Égypte
+15,Yasser Ahmed Ibrahim Elhanafy,YASSER,DF,10.02.1993,Egypt,Al Ahly SC,Égypte
+16,"Mohamed Elsayed Mohamed
+Elshenawy",M.ELSHENAWY,GK,18.12.1988,Egypt,Al Ahly SC,Égypte
+17,Mohamed Nasser Elneny,M.ELNENY,MF,11.07.1992,Egypt,Arsenal FC,Angleterre
+18,"Mostafa Mohamed Fathi
+Abdelhamid Mohamed",M.FATHY,FW,12.05.1994,Egypt,Pyramids FC,Égypte
+19,"Mostafa Mohamed Mohamed
+Ahmed Abdalla",M.MOHAMED,FW,28.11.1997,Egypt,F C Nantes,France
+20,Mahmoud Hamada Awad,M.HAMADA,MF,01.06.1994,Egypt,Al-Masry SC,Égypte
+21,Ahmed Sami Saad,A.SAMI,DF,01.04.1992,Egypt,Pyramids FC,Égypte
+22,"Omar Khaled Mohamed
+Marmoush",MARMOUSH,FW,07.02.1999,Egypt,Eintracht Frankfurt,Allemagne
+23,"Mohamed Kotb Kotb Abou Gabal
+Ali",GABASKI,GK,29.01.1989,Egypt,National Bank,Égypte
+24,"Mohamed Abdelmoneim Elsayed
+Mohamed Ahmed",M.ABDELMONIEM,DF,01.02.1999,Egypt,Al Ahly SC,Égypte
+25,Ahmed Mostafa Mohamed Sayed,A.ZIZO,MF,10.01.1996,Egypt,Zamalek SC,Égypte
+26,"Mohamed Sobhy Mohamed
+Daader",M.SOBHY,GK,15.07.1999,Egypt,Zamalek SC,Égypte
+27,"Mohanad Mostafa Ahmed
+Abdelmonem",M.LASHIN,MF,29.05.1996,Egypt,Pyramids FC,Égypte
+1,Jesus Lazaro Owono Ngua,OWONO,GK,01.03.2001,Eq. Guinea,DVO. ALAVES,Espagne
+2,Nestor Senra Perez,NÉSTOR SENRA,DF,04.01.2002,Eq. Guinea,REAL AVILES CF,Espagne
+3,Marvin Jose Anieboh,M. ANIEBOH,DF,26.08.1997,Eq. Guinea,ILLESCAS,Espagne
+4,Frederico Bicoro Akieme Nchama,FEDE BIKORO,MF,17.03.1996,Eq. Guinea,Club Africain Tunis,Tunisie
+5,Jose Elo Ayeto,ELO,DF,21.10.2000,Eq. Guinea,AD MERIDA,Espagne
+6,Ivan Edu Salvador,IBAN EDÚ,MF,11.12.1995,Eq. Guinea,,
+7,Jose Machin Dicombo,MACHÍN,MF,14.08.1996,Eq. Guinea,AC MONZA,Italie
+8,Jannick Buyla Sam,YANNICK B.S.,MF,06.10.1998,Eq. Guinea,SD Logroñés,Espagne
+9,Salomon Asumu Obama Ondo,S. OBAMA,FW,04.02.2000,Eq. Guinea,UE Santa Coloma,Andorre
+10,Emilio Nsue Lopez,NSUE,FW,30.09.1989,Eq. Guinea,FC INTERCITY,Espagne
+11,Basilio Ndong Owono Nchama,BASILIO NDONG,DF,17.01.1999,Eq. Guinea,"Universitatea Craiova
+",Roumanie
+12,Charles Nduwuisi Ondo,NDUWUISI ONDO,DF,22.10.2003,Eq. Guinea,"HUDDERSFIELD TOWN FC
+",Angleterre
+13,Aitor Mbela Gil,MBÉLA,GK,17.04.1996,Eq. Guinea,CD ASONEJA,Espagne
+14,Alejandro Balboa Bandeira,ÁLEX BALBOA,MF,06.03.2001,Eq. Guinea,SD HUESCA,Espagne
+15,Carlos Akapo Martinez,AKAPO,DF,12.03.1993,Eq. Guinea,SAN JOSE EARTHQUAKES,USA
+17,Jose Antonio Miranda Boacho,J. MIRANDA,FW,22.07.1998,Eq. Guinea,Niki Volou,Grèce
+18,Noe Nsue Ela,NOE,FW,17.04.2003,Eq. Guinea,CD NUMANCIA,Espagne
+19,Nlavo Asue Luis Miguel,NLAVO,FW,09.07.2001,Eq. Guinea,SC Braga B,Portugal
+20,Santiago Bocari Eneme,ENEME BOCARI,MF,29.09.2000,Eq. Guinea,MFK Vyskov,"République
+tchèque"
+21,Esteban Orozco Fernandez,ESTEBAN O.,DF,07.05.1998,Eq. Guinea,FC ARGES,Roumanie
+22,Pablo Ganet Comitre,PABLO GANET,MF,04.11.1994,Eq. Guinea,CD ALCOYANO,Espagne
+23,Manuel Mbara Sapunga,SAPUNGA,GK,23.11.1992,Eq. Guinea,Polokwane City FC,"Afrique Du
+Sud"
+1,Jobe Modou,M.Jobe,GK,27.10.1988,Gambia,MUSANZE FC,Rwanda
+2,Hamza Barry,H. Barry,MF,15.10.1994,Gambia,VEJLE FC,Danemark
+3,Ablie Jallow,A. Jallow,MF,14.11.1998,Gambia,FC METZ,France
+4,Dawda Ngum,D. Ngum,DF,02.09.1990,Gambia,Ariana FC,Suède
+5,Omar Colley,O. Colley,DF,24.10.1992,Gambia,BESIKTAS,Turquie
+6,Sulayman Marreh,S.Marreh,MF,15.01.1996,Gambia,Unattached,Gambie
+7,Alieu Fadera,A. Fadera,FW,03.11.2001,Gambia,GENK,Belgique
+8,Ebrima Adams,E. Adams,MF,15.01.1996,Gambia,Cardiff City FC,Angleterre
+9,Assan Ceesay,A. Ceesay,FW,17.03.1994,Gambia,DAMAC FC,Arabie Saoudite
+10,Musa Barrow,M. Barrow,FW,14.11.1998,Gambia,al taawon,Arabie Saoudite
+11,Sanyang Abdoulie,A. Sanyang,MF,08.05.1999,Gambia,GRENOBLE,France
+12,James Gomez,J. Gomez,DF,14.11.2001,Gambia,spata Prague,"République
+tchèque"
+13,Ibou Omar Touray,I. Touray,DF,24.12.1994,Gambia,stockport county,Angleterre
+14,Noah Kemeseng Sonko Sundberg,N. Sonko,DF,06.06.1996,Gambia,PFK Ludogorets,Bulgarie
+15,Jacob Mendy,J. Mendy,DF,27.12.1996,Gambia,wrexham,Angleterre
+16,Alasana Manneh,A. Manneh,MF,08.04.1998,Gambia,BK ODENSE,Danemark
+17,Saidy Janko,S.Janko,DF,22.10.1995,Gambia,BSC YOUNG BOYS,Suisse
+18,Baboucarr Gaye,B. Gaye,GK,24.02.1998,Gambia,Lokomotiv Sofia,Bulgarie
+19,Ebrima Colley,E. Colley,FW,01.02.2000,Gambia,BSC YOUNG BOYS,Suisse
+20,Yankuba Minteh,Y. Minteh,FW,22.07.2004,Gambia,FEYENOORD,Pays-Bas
+21,Muhammed Sanneh,M. Sanneh,DF,19.02.2000,Gambia,vlasim,République tchèque
+22,Lamin Sarr,L.Sarr,GK,11.03.2001,Gambia,eskillsminne,Suède
+23,Muhammed Badamosi,M. Badamosi,FW,27.12.1998,Gambia,AL HAZEM,Arabie Saoudite
+24,Ebrima Darboe,E. Darboe,MF,06.06.2001,Gambia,LASK LINZ FC,Autriche
+25,Bubacarr Sanneh,B Sanneh,DF,14.11.1994,Gambia,zvijeda,Bosnie-Herzégovine
+26,Ali Sowe,A. Sowe,FW,14.06.1994,Gambia,Ankaraguçu,Turquie
+27,Yusupha Bobb,Y. Bobb,MF,22.06.1996,Gambia,Unattached,Gambie
+1,Richard Ofori,OFORI,GK,01.11.1993,Ghana,Orlando Pirates FC,"Afrique Du
+Sud"
+2,Alidu Seidu,A. SEIDU,DF,04.06.2000,Ghana,Clermont Foot 63,France
+3,Denis Frimpong Odoi,ODOI,DF,27.05.1988,Ghana,Club Brugge KV,Belgique
+4,Opoku Nicholas,N. OPOKU,DF,11.08.1997,Ghana,Amiens SC,France
+5,Schindler Kingsley,SCHINDLER,DF,12.07.1993,Ghana,SAMSUNSPOR,Turquie
+6,Mohammed Salisu Abdul Karim,M. SALISU,DF,17.04.1999,Ghana,AS MONACO,France
+7,Ransford-Yeboah Konigsdoffer,Konigsdoffer,FW,13.09.2001,Ghana,HAMBURGER SV,Allemagne
+8,Ashimeru Majeed,ASHIMERU,MF,10.10.1997,Ghana,ANDERLECHT,Belgique
+9,Jordan Pierre Ayew,J. AYEW,FW,11.09.1991,Ghana,"CRYSTAL PALACE FC
+",Angleterre
+10,Andre Morgan Rami Ayew,A. AYEW,MF,17.12.1989,Ghana,LE HAVRE AC,France
+11,Osman Bukari,BUKARI,MF,13.12.1998,Ghana,Red Star,Serbie
+12,Joseph Luke Wollacot,WOLLACOT,GK,08.09.1996,Ghana,Hibernian FC,Écosse
+13,Paintsil Joseph,Paintsil,MF,01.02.1998,Ghana,K.R.C. Genk.,Belgique
+14,Gideon Mensah,G. MENSAH,DF,18.07.1998,Ghana,AJ.AUXERRE,France
+15,Elisha Owusu,Owusu,DF,07.11.1997,Ghana,AJ.AUXERRE,France
+16,Lawrence Ati Zigi,ATI-ZIGI,GK,29.11.1996,Ghana,FC ST GALLEN,Suisse
+17,Hamidu Abdul Fatawu,HAMIDU,DF,04.03.1999,Ghana,MEDEAMA SC,Ghana
+18,Daniel Amartey,AMARTEY,DF,21.12.1994,Ghana,Besiktas JK,Turquie
+19,Inaki Williams Arthuer,WILLIAMS,FW,15.06.1994,Ghana,ATHLETIC CLUB,Espagne
+20,Mohamed Kudus,KUDUS,MF,02.08.2000,Ghana,"WESTHAM UNITED FC
+",Angleterre
+21,Salis Abdul Samed,SALIS,MF,26.03.2000,Ghana,RC Lens,France
+22,Richmond Lamptey,R. LAMPTEY,MF,18.03.1997,Ghana,ASANTE KOTOKO SC,Ghana
+23,"Alaxander Kwabena Baidooh
+Djiku",DJIKU,DF,09.08.1994,Ghana,FERNABACH,Turquie
+24,Ernest Nuamah Appiah,NUAMAH,MF,01.11.2003,Ghana,OLYMPIQUE LYONNAIS,France
+25,Antoine Serlom Semenyo,SEMENYO,FW,07.01.2000,Ghana,Bournemouth FC,Angleterre
+26,Iddrisu Baba Mohammed,B. IDDRISU,MF,22.01.1996,Ghana,U.D. ALMERIA,Espagne
+27,Jonathan Sowah,SOWAH,FW,01.01.1999,Ghana,MEDEAMA SC,Ghana
+1,Jonas Asvedo Mendes,JONAS MENDES,GK,20.11.1989,Guinea Bissau,kalamata fc,Grèce
+2,Fali Cande,FALI CANDE,DF,24.01.1998,Guinea Bissau,FC METZ,France
+3,Franculino Gluda Dju,FRANCULINO,FW,28.06.2004,Guinea Bissau,FC Midtjylland,Danemark
+4,Marcelo Amado Djalo Taritolay,MARCELO DJALO,DF,08.10.1993,Guinea Bissau,ATHLETICO PALENCIA,Espagne
+6,Fernando De Lacerda Gomes,NITO GOMES,MF,03.02.2002,Guinea Bissau,CS MARITIMO,Portugal
+7,Eucidalcio Gomes,DALCIO GOMES,FW,22.05.1996,Guinea Bissau,APOEL F.C,Chypre
+8,Alfa Semedo Esteves,ALFA SEMEDO,MF,30.08.1997,Guinea Bissau,Al Tai,Arabie Saoudite
+9,Zinho Gano,ZINHO GANO,FW,13.10.1993,Guinea Bissau,SV ZULTE WAREGEM,Belgique
+10,Carlos Manuel Cardoso Mane,CARLOS MANE,MF,11.03.1994,Guinea Bissau,Kayserispor,Turquie
+11,Marciano Sanca Tchami,MARCIANO TCHAMI,FW,04.03.2004,Guinea Bissau,ALMERIA,Espagne
+12,Ouparine Djoco,OUPARINE,GK,22.04.1998,Guinea Bissau,FRANCS BORAINS,Belgique
+13,Carlos Mendes Gomes,CARLOS GOMES,MF,14.11.1998,Guinea Bissau,BOLTON,Angleterre
+14,Mauro Daniel Rodrigues Teixeira Mauro Teixeira,MAURO DANIEL RODRIGUES TEIXEIRA MAURO TEIXEIRA,FW,15.04.2001,Guinea Bissau,YVERDON SPORT FEMIN,Suisse
+15,Jefferson Anilson Silva Encada,J. ENCADA,DF,17.04.1998,Guinea Bissau,Pharco FC,Égypte
+16,Moreto Moro Cassama,MORETO,MF,16.02.1998,Guinea Bissau,Omonia Ncosia,Chypre
+17,Mama Samba Balde,MAMA BALDE,FW,06.11.1995,Guinea Bissau,FC LYON,France
+18,Famana Quizera,FAMANA QUIZERA,FW,25.04.2002,Guinea Bissau,Academica de Viseu,Portugal
+19,Janio Bikel Figueiredo Da Silva,JANIO BIKEL,MF,28.06.1995,Guinea Bissau,GAZIANTEP FK,Turquie
+20,Mané Manconi Soriano,S. MANE,DF,03.04.1996,Guinea Bissau,Academica de Viseu,Portugal
+21,Eulanio Angelo Chipela Gomes,NANU,DF,17.05.1994,Guinea Bissau,SAMSUNSPOR,Turquie
+22,Opa Sangante,OPA SANGANTE,DF,01.02.1991,Guinea Bissau,US Dunkerque,France
+23,Fernando Embadje,EMBADJE,GK,06.07.2003,Guinea Bissau,"CLUB DEPORTIVO LUGO
+",Espagne
+24,Jose Correia,ZE TURBO,FW,22.10.1996,Guinea Bissau,PARI N N,Russie
+25,Edgar Miguel Ie,EDGAR IÉ,DF,01.05.1994,Guinea Bissau,Basaksehir,Turquie
+26,Zidane Agustini Banjaqui,ZIDANE BANJAQUI,FW,15.12.1998,Guinea Bissau,Feirense,Portugal
+27,Prosper Mendy,PROSPER,DF,07.06.1996,Guinea Bissau,Charleroi,Belgique
+1,Aly Keita,A. KEITA,GK,08.12.1986,Guinea,Ostersunds,Suède
+2,Antoine Conte,A. CONTE,DF,29.01.1994,Guinea,Botev Plovdiv FC,Bulgarie
+3,Issiaga Sylla,SYLLA,DF,01.01.1994,Guinea,Montpellier HSC,France
+4,Saidou Sow,SOW,DF,04.07.2002,Guinea,"Racing Club de Strasbourg FC
+",France
+5,Mouctar Diakhaby,M. DIAKHABY,DF,19.12.1996,Guinea,FC VALENCE,Espagne
+6,Amadou Diawara,A.DIAWARA,MF,17.07.1997,Guinea,RSC ANDERLECHT,Belgique
+7,Morgan Bono Guilavogui,M. GUILAVOGUI,FW,10.03.1998,Guinea,RC Lens,France
+8,Naby Deco Keita,KEITA,MF,10.02.1995,Guinea,WERDER DE BREME,Allemagne
+9,Serhou Yadaly Guirassy,S. GUIRASSY,FW,12.03.1996,Guinea,Stuttgart VFB,Allemagne
+10,Moriba Kourouma,KOUROUMA,MF,19.01.2003,Guinea,RB Leipzig,Allemagne
+11,Mohamed Bayo,M. BAYO,FW,04.06.1998,Guinea,LE HAVRE AC,France
+12,Ibrahim Diakite,I. DIAKITE,DF,31.10.2003,Guinea,STADE DE REIMS,France
+13,Mohamed Ali Camara,M.A CAMARA,DF,28.08.1997,Guinea,Young Boys,Suisse
+14,Karim Cisse,K. CISSE,MF,14.11.2004,Guinea,AS SAINT ETIENNE,France
+15,Seydouba Cisse,S. CISSE,MF,10.02.2001,Guinea,"Club Deportivo Leganés
+",Espagne
+16,Moussa Camara,M. CAMARA,GK,27.11.1998,Guinea,"HOROYA ATHLETIC CLUB
+",Guinée
+17,Julian Marc Jeanvier,JEANVIER,DF,31.03.1992,Guinea,Kayserispor,Turquie
+18,Aguibou Camara,AGUIBOU,MF,20.05.2001,Guinea,Atromitos,Grèce
+19,François Kamano,F. KAMANO,FW,02.05.1996,Guinea,Abha FC,Arabie Saoudite
+20,Mory Konate,KONATE,MF,15.11.1993,Guinea,KV MECHELEN,Belgique
+21,Sekou Oumar Sylla,S. SYLLA,DF,09.01.1999,Guinea,SC CAMBUUR,Pays-Bas
+22,Ibrahim Kone,KONE,GK,05.12.1989,Guinea,Hibernians FC,Malte
+23,Abdoulaye Toure,A. TOURE,MF,03.03.1994,Guinea,LE HAVRE AC,France
+24,Jose Martinez Kante,J. KANTE,FW,27.09.1990,Guinea,Urawa Red Diamonds,Japon
+25,Facinet Conte,F. CONTE,FW,24.03.2005,Guinea,SC BASTIA,France
+1,Ismael Diarra Diawara,I DIAWARA,GK,11.11.1994,Mali,MALMÔ,Suède
+2,Hamari Traore,H TRAORE,DF,27.01.1992,Mali,Real Sociedad,Espagne
+3,Amadou Dante,DANTE,DF,07.10.2000,Mali,Sturm Graz,Autriche
+4,Amadou Haidara,A HAIDARA,MF,31.01.1998,Mali,RB Leipzig,Allemagne
+5,Boubacar Kiki Kouyate,KIKI,DF,15.04.1997,Mali,MHSC MONTPELLIER,France
+6,Sikou Niakate,S NIAKATE,DF,10.07.1999,Mali,S.C. BRAGA,Portugal
+7,Moussa Doumbia,DOUMBIA,FW,15.08.1994,Mali,AL ADALAH CLUB,"Arabie
+Saoudite"
+8,Diadie Samassekou,SAMASSEKOU,MF,11.01.1996,Mali,HOFFENHEIM,Allemagne
+9,Ibrahim Sissoko,I SISSOKO,FW,27.11.1995,Mali,AS SAINT ETIENNE,France
+10,Yves Bissouma,BISSOUMA,MF,30.08.1996,Mali,TOTTENHAM,Angleterre
+11,Lassana Coulibaly,L COULIBALY,MF,10.04.1996,Mali,SALERNITANA,Italie
+12,Mohamed Camara,CAMARA,MF,06.01.2000,Mali,AS MONACO,France
+13,Moussa Diarra,M DIARRA,DF,10.11.2000,Mali,Toulouse FC,France
+14,Ckene Doucoure,C DOUCOURE,FW,08.04.2002,Mali,LORIENT,France
+15,Mamadou Fofana,FOFANA,DF,21.01.1998,Mali,Amiens SC,France
+16,Djigui Diarra,DJIGUI,GK,27.02.1995,Mali,YOUNG AFIRCANS SC,Tanzanie
+17,Falaye Sacko,F SACKO,DF,01.05.1995,Mali,MONPELLIER,France
+18,Youssoufou Niakate Niakate,Y NIAKATE,FW,16.12.1992,Mali,Bani Yas FC,"Émirats arabes
+unis"
+19,Fousseni Diabate,DIABATE,FW,18.10.1995,Mali,LAUSANE SPORT,Suisse
+20,Sekou Koita,S KOITA,FW,28.11.1999,Mali,RED BULL SALZBURG,Autriche
+21,Adama Traore,NOSS,MF,28.06.1995,Mali,Hull City Tigers,Angleterre
+22,Aboubacar Doumbia,A DOUMBIA,GK,21.11.1995,Mali,AFE,Mali
+23,Aliou Dieng,DIENG,MF,16.10.1997,Mali,AL ALHY,Égypte
+24,Boubacar Traore,B TRAORE,MF,20.08.2001,Mali,WOLVERHAMPTON,Angleterre
+25,Lassine Fanta Mady Sinayoko,SINAYOKO,FW,08.12.1999,Mali,AJ Auxerre,France
+26,Kamory Doumbia,KAMORY,MF,18.02.2003,Mali,STADE BRESTOIS,France
+27,Nene Dorgeles,DORGELES,FW,23.12.2002,Mali,RED BULL SALZBURG,Autriche
+1,Yassine Bounou,BONO,GK,05.04.1991,Maroc,Al Hilal SFC,Arabie Saoudite
+2,Achraf Hakimi,HAKIMI,DF,04.11.1998,Maroc,PSG,France
+3,Noussair Mazraoui,MAZRAOUI,DF,14.11.1997,Maroc,FC Bayern Munich,Allemagne
+4,Sofyan Amrabat,AMRABAT,MF,21.08.1996,Maroc,Manchester Utd.,Royaume-Uni
+5,Nayef Aguerd,AGUERD,DF,30.03.1996,Maroc,West Ham United,"Royaume-
+Uni"
+6,Ghanem Saiss,SAISS,DF,26.03.1990,Maroc,Al-Shabab FC,Arabie Saoudite
+7,Hakim Ziyach,ZIYECH,MF,19.03.1993,Maroc,Galatasaray SK,Turquie
+8,Azz-Eddine Ounahi,Ounahi,MF,19.04.2000,Maroc,"OLYMPIQUE DE MARSEILLE
+",France
+9,Tarik Tissoudali,TISSOUDALI,FW,02.04.1993,Maroc,KAA GENT,Belgique
+10,Amine Harit,HARIT,MF,18.06.1997,Maroc,"OLYMPIQUE DE MARSEILLE
+",France
+11,Ismael Saibari,SAIBARI,MF,28.01.2001,Maroc,PSV EINDHOVEN,Pays-Bas
+12,Monir El Kajoui,El KAJOUI,GK,10.05.1989,Maroc,Al-Wehda FC,Arabie Saoudite
+13,Yunis Abdelhamid,ABDELHAMID,DF,28.09.1987,Maroc,STADE RENNAIS FC,France
+14,Oussama El Azzouzi,El AZZOUZI,MF,29.05.2001,Maroc,Bologna FC,Italie
+15,Selim Amallah,AMALLAH,MF,15.11.1996,Maroc,FC Valencia,Espagne
+16,Abdessamad Ezzalzouli,Ezzalzouli,MF,17.12.2001,Maroc,Real Betis,Espagne
+17,Sofiane Boufal,BOUFAL,MF,17.09.1993,Maroc,Al-Rayyan SC,Qatar
+18,Abdelkabir Abqar,ABQAR,DF,10.03.1999,Maroc,Deportivo Alavés,Espagne
+19,Youssef En-Nesyri,EN-NESYRI,FW,01.06.1997,Maroc,FC SEVILLE,Espagne
+20,Ayoub El Kaabi,EL KAABI,FW,25.06.1993,Maroc,OLYMPIACOS FC,Grèce
+21,Amine Adli,ADLI,FW,10.05.2000,Maroc,"BAYER LEVERKUSEN
+",Allemagne
+22,El Mehdi Benabid,BENABID,GK,24.01.1998,Maroc,ASFAR ,"ASSOCIATION SPORTIVE
+DES FORCES ARMÉES ROYA
+(Maroc"
+23,Bilal El Khannouss,El Khannouss,MF,10.05.2004,Maroc,K.R.C. Genk.,Belgique
+24,Michael Amir Junior Richardson,RICHARDSON,MF,24.01.2002,Maroc,Stade de Reims,France
+25,Yahya Attiat Allah El Idrissi,ATTIAT-ALLAH,DF,02.03.1995,Maroc,WAC CASABLANCA,Maroc
+26,Chadi Riad,RIAD,DF,17.06.2003,Maroc,Real Betis,Espagne
+27,Mohamed Chibi,CHIBI,DF,21.01.1993,Maroc,Pyramids FC,Égypte
+1,Namori Diaw,NAMORI.D,GK,30.12.1994,Mauritania,EN AVANT GUINGAMP,France
+2,Diaw Khadim,DIAW,DF,07.07.1998,Mauritania,AL HILAL FC,Soudan
+3,Abeid Aly,ALY ABEID,DF,11.12.1997,Mauritania,FC UTA ARAD,Roumanie
+4,Omare Gassama,GASSAMA,MF,01.09.1995,Mauritania,CHATEAUROUX,France
+5,Ba Lamine,BA,DF,24.08.1997,Mauritania,NK VARAZDIN SN,Croatie
+6,Fofana Gussouma,GUESS,MF,17.12.1992,Mauritania,DOXA KATAKOPIAS,Chypre
+7,Ba Al Hadji,E.BA,MF,05.03.1993,Mauritania,FC Nouadhibou,Mauritanie
+8,Bodda Mouhsine,MOHSEN,MF,18.07.1997,Mauritania,FC Nouadhibou,Mauritanie
+9,Hemeya Tanji,H. TANJY,FW,01.05.1998,Mauritania,Itihad Tripoli,Libye
+10,Idrissa Thiam,IDRISSA,MF,02.09.2000,Mauritania,AL MESAIMEER,Qatar
+11,Anne Souleymane,ANNE,FW,05.12.1997,Mauritania,KMSK DEINZE,Belgique
+12,Camara Bakari,B. CAMARA,MF,04.01.1994,Mauritania,"VILLEFRANCHE BEAUJOLAIS
+",France
+13,Nouh Mohamed El Abd,NOUH,DF,24.12.2000,Mauritania,FC Nouadhibou,Mauritanie
+14,Mohamed Dellah Yaly,Y. DELLAHI,DF,01.11.1997,Mauritania,AL-HEDOOD,Irak
+15,Doukara Souleymane,DOUKARA,FW,29.09.1991,Mauritania,MAGUSA TURC GUCU,Turquie
+16,Niasse Babacar,NIASSE,GK,20.12.1996,Mauritania,EA GUINGAMP,France
+17,Abdallahi Mahmoud,M. ABDALLAHI,MF,04.05.2000,Mauritania,AC BELLINZONA,Suisse
+18,Sidi Ahmed Mohamed El Abd,SID'AHMED,MF,05.05.2001,Mauritania,FC Nouadhibou,Mauritanie
+19,Aboubakary Koita,KOITA,FW,20.09.1998,Mauritania,Saint Trond,Belgique
+20,Keita Ibrahima,IBRAHIMA.K,DF,08.01.2001,Mauritania,FCF TP MAZEMBE,R.D. Congo
+21,El Hassen Houeibib,EL HASSEN.H,DF,31.10.1993,Mauritania,Al Zawraa SC,Irak
+22,N'Diaye M'Backé,M'BACKÉ N.,GK,19.12.1994,Mauritania,"NOUAKCHOTT KINGS
+",Mauritanie
+23,Sidi Bouna Amar Sidi Amar,BOUNA,FW,31.12.1998,Mauritania,FC Nouadhibou,Mauritanie
+24,Bakary N�Diaye,B. NDIAYE,DF,26.11.1998,Mauritania,AL KUWA AL JAWIYA,Irak
+25,Ba Papa Ibnou,IBNOU BA,FW,05.01.1993,Mauritania,CONCARNEAU FC,France
+26,Oumar Jacky Ngom,NGOM,MF,09.03.2004,Mauritania,FC PAU,France
+27,Aboubakar Kamara,A. KAMARA,FW,07.03.1995,Mauritania,AL JAZIRA,Émirats arabes unis
+1,Ernan Alberto Siluane,E.Siluane,GK,09.07.1998,Mozambique,"Uniao Desportiva de Songo
+",Mozambique
+2,Infren Matola,Nanana,DF,08.02.1996,Mozambique,"Uniao Desportiva de Songo
+",Mozambique
+3,David Malembana,Malembana,DF,11.10.1995,Mozambique,FC Noah,Arménie
+4,Feliciano Joao Jone,Nene III,DF,15.11.1996,Mozambique,ABB,Mozambique
+5,Bruno Alberto Langa,Bruno Langa,DF,31.10.1997,Mozambique,GD Chaves,Portugal
+6,Amade Momade,Amadou,MF,03.12.1996,Mozambique,"Uniao Desportiva de Songo
+",Mozambique
+7,Elias Gaspar Pelembe,Pelembe,MF,13.11.1983,Mozambique,UDS,Mozambique
+8,Edmilson Gabriel Dove,Dove,DF,18.07.1994,Mozambique,Kaizer Chiefs FC,"Afrique Du
+Sud"
+9,Pachoio Lau Ha King,Lau King,FW,04.09.1995,Mozambique,"União Desportiva do Songo
+",Mozambique
+10,Clesio Palmirim David Bauque,Clesio,FW,11.10.1994,Mozambique,FC HONKA,Finlande
+11,Joao Jose Jone Bonde,J. Bonde,FW,09.01.1997,Mozambique,"CLUBE FERROVIARIO DA BEIRA
+",Mozambique
+12,Fasistencio Maria Faza Joao,Fazito,GK,09.06.2003,Mozambique,"CLUBE FERROVIARIO DE
+NAMPULA",Mozambique
+13,Stanley Ratifo,Ratifo,FW,05.12.1994,Mozambique,CfR Pforzheim,Allemagne
+14,Domingos Joao Macandza,Macandza,DF,17.06.1998,Mozambique,CD Costa do Sol,Mozambique
+15,Renildo Isnard Mandava,Reinildo,DF,21.01.1994,Mozambique,Atletico Madrid,Espagne
+16,Alfonso Antonio Chico Amade,Amade,DF,12.11.1999,Mozambique,KV Oostende FC,Belgique
+17,Edson Andre Sitoe,Mexer,DF,08.09.1988,Mozambique,Bandirmapor,Turquie
+18,Gildo Lourenco Vilanculos,Gildo,MF,31.01.1995,Mozambique,"Sporting Club de Covilha
+",Portugal
+19,Witiness Chimoio Quembo,Witi,FW,26.08.1996,Mozambique,CD Nacional,Portugal
+20,Geny Cipriano Catamo,Geny,FW,26.01.2001,Mozambique,Sporting CP,Portugal
+21,Ricardo Martins Guimaraes,Guima,MF,14.11.1995,Mozambique,GD Chaves,Portugal
+22,"Ivane Carminio Francisco
+Oficial Urrubal",C. Urrubal,GK,03.01.1997,Mozambique,ABB,Mozambique
+23,"Shaquille Momad Da Conceicao
+Nangy",Nangy,MF,24.11.1997,Mozambique,"Clube Ferroviario de Maputo
+",Mozambique
+1,Loydt Kazapua,Kazapua,GK,25.03.1989,Namibia,Chippa United,Afrique Du Sud
+2,Denzil Haoseb,HJaoseb,DF,25.02.1991,Namibia,Khomas Nampol FC,Namibie
+3,Ananias Gebhardt,Gebhardt,DF,08.09.1988,Namibia,Baroka FC,Afrique Du Sud
+4,Hanamub Welwin Riaan Hanamub,Hanamub,DF,08.02.1995,Namibia,Amazulu FC,Afrique Du Sud
+5,Vetunuavi Charles Hambira,Hambira,DF,13.06.1990,Namibia,African Stars FC,Namibie
+6,Ngero Kaanjuka Katua,Katua,MF,25.07.2001,Namibia,UNAM FC,Namibie
+7,Deon Daniel Hotto,Hotto,MF,29.10.1990,Namibia,Orlando Piates,Afrique Du Sud
+8,Uetuuru Kambato,Kambato,FW,24.01.1998,Namibia,African Stars FC,Namibie
+9,Muzeu Betuel Muzeu,Muzeu,FW,22.02.2000,Namibia,Black Leopards,Afrique Du Sud
+10,Prins Menelik Tjiueza,Tjiueza,MF,12.03.2002,Namibia,KF Liria Prizren,Serbie
+11,Absalom Manjana Iimbondi,Iimbondi,MF,11.10.1991,Namibia,Khomas Nampol FC,Namibie
+12,Kennedy Given-Love Amutenya,Amutenya,DF,15.07.1995,Namibia,Gaborone United FC,Botswana
+13,Peter Taanyanda Shalulile,Shalulile,FW,23.10.1993,Namibia,Mamelodi Sundown,"Afrique Du
+Sud"
+14,Joslin Kamatuka,Kamatuka,MF,22.07.1991,Namibia,Maritzburg United,"Afrique Du
+Sud"
+15,Mariine Marcel Papama,Papama,MF,28.04.1996,Namibia,Jwaneng Galaxy,Botswana
+16,Kamaijanda Ndisiro,Ndisiro,GK,12.01.1999,Namibia,African Stars,Namibie
+17,Rudath Wendell,Wendell,MF,07.10.1995,Namibia,Jwaneng Galaxy FC,Botswana
+18,Aprocius Megameno Petrus,Petrus,DF,09.10.1999,Namibia,KF Liria Prizren,Serbie
+19,Petrus Shitembi,Shitembi,MF,11.05.1992,Namibia,Kuching City,Malaisie
+20,Ivan Kamberipa,Kamberipa,DF,03.02.1994,Namibia,Orapa FC,Botswana
+21,Lubeni Pombili Haukongo,Hukongo,DF,24.09.2000,Namibia,Cape Town Spurs FC,"Afrique
+Du Sud"
+22,Ryan Nyambe,Nyambe,DF,04.12.1997,Namibia,Derby County,Angleterre
+23,Edward Maova,Maova,GK,05.09.1994,Namibia,Pretoria Callies FC,"Afrique Du
+Sud"
+1,Francis Odinaka Uzoho,Uzoho,GK,28.10.1998,Nigeria,Omonia FC,Chypre
+2,"Temitayo Olufisayo Olaoluwa
+Aina",Aina,DF,08.10.1996,Nigeria,Nottingham Forest,Angleterre
+3,Zaidu Sanusi,Zaidu,DF,13.06.1997,Nigeria,FC PORTO,Portugal
+4,Alhassan Yusuf Abdullahi,Yusuf,MF,20.07.2000,Nigeria,ROYAL ANTWERP,Belgique
+5,William Paul Ekong,Ekong,DF,01.09.1993,Nigeria,Paok C,Grèce
+6,Ajayi Oluwasemilogo Adesewo,Ajayi,DF,09.11.1993,Nigeria,WEST BROMICH,Angleterre
+7,Ahmed Musa,Musa,FW,14.10.1992,Nigeria,Sivasspor k,Turquie
+8,Ogochukwu Frank Onyeka,Onyeka,MF,01.01.1998,Nigeria,Brentford FC,Angleterre
+9,Victor James Osimhen,Osimhen,FW,29.12.1998,Nigeria,SSC Napoli,Italie
+10,"Ayodele-Aribo Temitope Joseph
+Oluwaseyi",Aribo,MF,21.07.1996,Nigeria,SOUTHAMPTON FC,Angleterre
+11,Samuel Chimerenka Chukwueze,Chukwueze,FW,22.05.1999,Nigeria,AC MILAN,Italie
+12,Samuel Osayi Bright,Osayi,DF,31.12.1997,Nigeria,"FENERBACHCE S,K",Turquie
+13,"Onyemaechi Sopuruchukwu
+Bruno",Bruno,DF,03.04.1999,Nigeria,Boavista FC,Portugal
+14,Iheanacho Kelechi Promise,Iheanacho,FW,03.10.1996,Nigeria,LEICESTER CITY FC,Angleterre
+15,Moses Daddy Simon,Simon,FW,12.07.1995,Nigeria,FC NANTES,France
+16,Ojo Olorunleke Oluwasegun,Olorunleke,GK,17.08.1995,Nigeria,"Enyimba International FC
+",Nigeria
+17,Alexander Chuka Iwobi,Iwobi,MF,03.05.1996,Nigeria,Fulham FC,Angleterre
+18,Ademola Olajide Lookman,Lookman,FW,20.10.1997,Nigeria,Atalanta BC,Italie
+19,Sadiq Umar,Sadiq,FW,02.02.1997,Nigeria,Real Sociedad,Espagne
+20,Awaziem Chidozie Collins,Awaziem,DF,01.01.1997,Nigeria,Boavista FC,Portugal
+21,Calvin Chinedu Ughelumba,Calvin,DF,31.12.1999,Nigeria,Fulham FC,Angleterre
+22,Kenneth Josiah Omeruo,Omeruo,DF,17.10.1993,Nigeria,Kasimpasa FC,Turquie
+23,Stanley Bobo Nwabali,Nwabali,GK,10.06.1996,Nigeria,Chippa United,Afrique Du Sud
+24,Victor Okoh Boniface,Boniface,FW,23.12.2000,Nigeria,"BAYER LEVERKUSEN
+",Allemagne
+25,Nwadike Raphael Onyedika,Onyedika,MF,19.04.2001,Nigeria,Club Brugge,Belgique
+1,Seny Timothy Dieng,SENY,GK,23.11.1994,Senegal,Middlesbrough FC,Angleterre
+2,Formose Mendy,F. MENDY,DF,02.01.2001,Senegal,FC LORIENT,France
+3,Kalidou Koulibaly,KOULIBALY,DF,20.06.1991,Senegal,AL-HILAL FC,Arabie Saoudite
+4,Abdoulaye Seck,A. SECK,DF,04.06.1992,Senegal,,
+5,Idrissa Gana Gueye,GANA,MF,26.09.1989,Senegal,EVERTON FC,Angleterre
+6,Nampalys Mendy,N. MENDY,MF,23.06.1992,Senegal,Racing Club De Lens,France
+7,Nicolas Jackson,N. JACKSON,FW,20.06.2001,Senegal,CHELSEA FC,Angleterre
+8,Cheikhou Kouyate,KOUYATE,MF,21.12.1989,Senegal,Nottingham Forest,Angleterre
+9,Boulaye Dia,B. DIA,FW,16.11.1996,Senegal,SALERNITANA,Italie
+10,Sadio Mane,MANE,MF,10.04.1992,Senegal,AL NASSR,Arabie Saoudite
+11,Ismaila Pathe Ciss,PATHE CISS,MF,16.03.1994,Senegal,RAYO VALLECANO,Espagne
+12,Fode Ballo,B.TOURE,DF,03.01.1997,Senegal,FULHAM,Angleterre
+13,Iliman Cheikh Baroy Ndiaye,NDIAYE,FW,06.03.2000,Senegal,Marseille,France
+14,Ismail Joshua Jakobs,JAKOBS,DF,17.08.1999,Senegal,AS MONACO,France
+15,Krepin Diatta,DIATTA,MF,25.02.1999,Senegal,AS MONACO,France
+16,Edouard Mendy,MENDY,GK,01.03.1992,Senegal,al ahli,Arabie Saoudite
+17,Pape Matar Sarr,P. M. SARR,MF,14.09.2002,Senegal,TOTTENHAM,Angleterre
+18,Ismaila Sarr,SARR,FW,25.02.1998,Senegal,Marseille,France
+19,Moussa Niakhate,NIAKHATE,DF,08.03.1996,Senegal,Nottingham Forest,Angleterre
+20,Mouhamadou Habibou Diallo,H. DIALLO,FW,18.06.1995,Senegal,Al Shabab,Arabie Saoudite
+21,Youssouf Sabaly,SABALY,DF,05.03.1993,Senegal,BETIS SEVILLE,Espagne
+22,Abdou Lakhad Diallo,DIALLO,DF,04.05.1996,Senegal,AL Arabi,Qatar
+23,Mory Diaw,DIAW,GK,22.06.1993,Senegal,Clermont Ferrand,France
+24,Abdallah Dipo Sima,SIMA,FW,17.06.2001,Senegal,RANGERS FC,Écosse
+25,Lamine Camara,LAMINE,MF,01.01.2004,Senegal,FC METZ,France
+26,Pape Alassane Gueye,GUEYE,MF,24.01.1999,Senegal,Marseille,France
+27,Abdoulaye Niakhate Ndiaye,A. N. NDIAYE,DF,10.04.2002,Senegal,FC TROYES,France
+1,Ronwen Hayden Williams,Williams,GK,21.01.1992,South Africa,Mamelodi Sundowns,"Afrique Du
+Sud"
+2,Nyiko Sydney Mobbie,Mobbie,DF,11.09.1994,South Africa,Sekhukhune United,"Afrique Du
+Sud"
+3,Terrence Mashego,Mashego,DF,28.06.1996,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+4,Teboho Mokoena,Mokoena,MF,24.01.1997,South Africa,sund,Afrique Du Sud
+5,Siyanda Xulu,Xulu,DF,30.12.1991,South Africa,Supersport United,"Afrique Du
+Sud"
+6,Aubrey Maphosa Modiba,Modiba,DF,22.07.1995,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+7,Oswin Reagan Appollis,Appollis,FW,25.08.2001,South Africa,Polokwane City,"Afrique Du
+Sud"
+8,Jayden Oswin Adams,Adams,MF,05.05.2001,South Africa,Stellenboch FC,Afrique Du Sud
+9,Evidence Makgopa,Makgopa,FW,05.06.2000,South Africa,Orlando Pirates,"Afrique Du
+Sud"
+10,Percy Muzi Tau,Tau,FW,13.05.1994,South Africa,Al Ahly Club,Égypte
+11,Themba Zwane,Zwane,FW,03.08.1989,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+12,Thapelo Maseko,Maseko,DF,11.11.2003,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+13,Sphephelo Sithole,Sithole,MF,03.03.1999,South Africa,Tondela,Portugal
+14,Mothobi Mvala,Mvala,DF,14.06.1994,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+15,Thabang Amod Monare,Monare,MF,16.09.1989,South Africa,Orlando Pirates,"Afrique Du
+Sud"
+16,Veli Mothwa,Mothwa,GK,12.02.1991,South Africa,Amazulu FC,Afrique Du Sud
+17,Lerato Zakhele Lepasa,Lepasa,FW,03.01.1997,South Africa,Orlando Pirates,"Afrique Du
+Sud"
+18,Gomolemo Grant Kekana,Kekana,DF,31.10.1992,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+19,Nkosinathi Emmanuel Sibisi,Sibisi,DF,22.09.1995,South Africa,Orlando Pirates,"Afrique Du
+Sud"
+20,Khuliso Johnson Mudau,Mudau,DF,26.04.1995,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+21,Mihlali Mayambela,Mayambela,FW,25.08.1996,South Africa,ARIS LIMASSOL,Chypre
+22,Stuart Ricardo Goss,Goss,GK,02.04.1994,South Africa,Supersport United,"Afrique Du
+Sud"
+23,Thapelo James Morena,Morena,DF,06.08.1993,South Africa,Mamelodi Sundowns FC,"Afrique
+Du Sud"
+24,Tapelo Xoki,Xoki,DF,10.04.1995,South Africa,Orlando Pirates,"Afrique Du
+Sud"
+25,Sibongiseni Mthethwa,Mthethwa,MF,19.04.1994,South Africa,Kaizer Chiefs FC,"Afrique Du
+Sud"
+26,Elias Sepho Mokwana,Mokwana,FW,08.09.1999,South Africa,Sekhukhune United,"Afrique Du
+Sud"
+1,Kwesi Zion Pira Kawawa,Kawawa,GK,05.12.2001,Tanzania,IFK Haninge,Suède
+2,Haji Mnoga,Mnoga,MF,16.04.2004,Tanzania,ALDERSHOT TOWN,Angleterre
+3,Mudathir Yahya Abbas,Mudathir,MF,06.05.1996,Tanzania,YANGA SC,Tanzanie
+4,Ibrahim Abdulla Hamad,Ibrahim,DF,12.11.1997,Tanzania,YANGA SC,Tanzanie
+5,Dickson Nickson Job,Dickson,DF,29.12.2000,Tanzania,YANGA SC,Tanzanie
+6,Feisal Salum Abdalla,Fei toto,MF,11.01.1998,Tanzania,Azam Football Club,Tanzanie
+7,Himid Mao Mkami,Himid,MF,05.11.1992,Tanzania,Talaea El Gish,Égypte
+8,Morice Michael Abraham,Morice,MF,13.08.2003,Tanzania,RFK Novi Sad,Serbie
+9,Cyprian Thobias Kachwele,KACHWELE,DF,15.02.2005,Tanzania,AZAM FC,Tanzanie
+10,Mbwana Ally Samatta,Samatta,FW,23.12.1992,Tanzania,PAOK,Grèce
+11,Tarryn Allarakhia,TARRYN,MF,17.10.1997,Tanzania,Wealdstone fc,Royaume-Uni
+12,Saimon Happygod Msuva,Msuva,FW,02.10.1993,Tanzania,JS KABYLIE,Algérie
+13,Beno David Kakolanya,Beno,GK,27.06.1994,Tanzania,Singida Big Stars FC,Tanzanie
+14,Bakari Mwamnyeto Nondo,Mwamnyeto,DF,05.11.1997,Tanzania,YANGA SC,Tanzanie
+15,Mohamed Hussein Mohamed,Shabalala,DF,01.11.1996,Tanzania,Simba SC,Tanzanie
+16,Lusajo Elukaga Mwaikenda,Lusajo,DF,27.10.2000,Tanzania,"AZAM FOOTBAL CLUB
+",Tanzanie
+17,Sospeter Israel Bajana,Bajana,MF,14.10.1996,Tanzania,Azam Football Club,Tanzanie
+18,Aishi Salum Manula,Aishi,GK,13.09.1995,Tanzania,Simba SC,Tanzanie
+19,Mzamiru Yassin Saidi,Mzamiru,MF,03.01.1996,Tanzania,Simba SC,Tanzanie
+20,Novatus Dismas Miroshi,Novatus,DF,02.09.2002,Tanzania,FC Shakhar Donetsk,Ukraine
+21,Kokola Charles M'Mombwa,Kokola,FW,14.03.1998,Tanzania,Macarthur fc,Australie
+22,Kibu Denis Prosper,KIBU,FW,04.12.2000,Tanzania,Simba SC,Tanzanie
+23,Ben Anthony Starkie,Ben,MF,23.07.2002,Tanzania,Basford United fc,Angleterre
+24,Abdi Hassan Banda,Banda,DF,20.04.1995,Tanzania,Richards Bay FC,"Afrique Du
+Sud"
+25,Abdulmalik Adam Zakaria,Abdulmalik,DF,03.03.1996,Tanzania,"Namungo Football Club
+",Tanzanie
+26,Miano Danilo Van Den Bos,Miano,DF,31.03.2003,Tanzania,Telford United fc,"Royaume-
+Uni"
+27,Mohamed Ali Omar Sagaf,Mohamed,FW,12.11.1997,Tanzania,Boreham wood fc,"Royaume-
+Uni"
+1,Hassen Hassen Mouez,hassen,GK,05.03.1995,Tunisie,Club Africain,Tunisie
+2,Ali Elabdi,ABDI,DF,20.12.1993,Tunisie,S.MALHERBE.CAENS,France
+3,Montassar Omar Talbi,TALBI,DF,26.05.1998,Tunisie,FC LORIENT,France
+4,Yassine Meriah,MERIAH,DF,02.07.1993,Tunisie,ESTUNIS,Tunisie
+5,Mohamed Ali Ben Romdhane,BEN ROMDHANE,MF,06.09.1999,Tunisie,Ferencvaros T.C.,Hongrie
+6,Houssem Tka,TKA,MF,16.08.2000,Tunisie,ESTUNIS,Tunisie
+7,Youssef Msakni,MSAKNI,FW,28.10.1990,Tunisie,AL Arabi,Qatar
+8,Hamza Rafia,RAFIA,MF,02.04.1999,Tunisie,US LECCE,Italie
+9,Haithem Jouini,JOUINI,FW,07.05.1993,Tunisie,STADETUNISIEN,Tunisie
+10,Anis Ben Slimane,BEN SLIMANE,MF,16.03.2001,Tunisie,SHEFFIELD UNITED,Angleterre
+11,Taha Yassine Khnissi,KHNISSI,FW,16.01.1992,Tunisie,Al Kuwait,Koweït
+12,Ali Maaloul,MAALOUL,DF,01.01.1990,Tunisie,Al Ahly SC,Égypte
+13,Hamza Jlassi,JLASSI,DF,29.09.1991,Tunisie,Etoile Sportie du Sahel,Tunisie
+14,Aissa Bilal Laidouni,LAIDOUNI,MF,13.12.1996,Tunisie,Union Berlin,Allemagne
+15,Oussama Hadadi,HADADI,DF,28.01.1992,Tunisie,Greuther Fürth,Allemagne
+16,Dahman Aymen,DAHMAN,GK,28.01.1997,Tunisie,AL HAZEM,Arabie Saoudite
+17,Ellyes Joris Skhiri,SKHIRI,MF,10.05.1995,Tunisie,Eintracht Frankfurt,Allemagne
+18,Sayfallah Ltaief,LTAIEF,FW,22.04.2000,Tunisie,FC Winterthour,Suisse
+19,Bassem Srarfi,SRARFI,FW,25.06.1997,Tunisie,Club Africain,Tunisie
+20,Valery Yan,VALERY,DF,22.02.1999,Tunisie,ANGERS SCO,France
+21,Wajdi Kechrida,KECHRIDA,DF,05.11.1995,Tunisie,Atromitos FC,Grèce
+22,Bechir Ben Said,BEN SAID,GK,29.11.1992,Tunisie,USMO,Tunisie
+23,Naim Sliti,SLITI,FW,27.07.1992,Tunisie,AL-AHLI SFC,Qatar
+24,Seifeddine Jaziri,JAZIRI,FW,11.02.1993,Tunisie,Zamalek SC,Égypte
+25,Mohamed Belhadj Mahmoud,BELHAJ MAHMOUD,MF,24.04.2000,Tunisie,FC LUGANO,Suisse
+26,Alaa Ghram,GHRAM,DF,24.07.2001,Tunisie,"Club Sportif Sfaxien CSS
+",Tunisie
+27,Achouri Elyes,ACHOURI,FW,10.02.1999,Tunisie,FC COPENHAGUE,Danemark
+1,Toaster Nsabata,NSABATA,GK,24.11.1993,Zambia,ZESCO UNITED FC,Zambie
+2,Zephania Phiri,PHIRI,DF,19.11.1996,Zambia,PRISONS LEOPARD,Zambie
+3,Benedict Chepeshi,CHEPESHI,DF,10.06.1996,Zambia,RED ARROWS FC,Zambie
+4,Frankie Chisenga Musonda,MUSONDA,DF,12.12.1997,Zambia,ARYER FC,Écosse
+5,Changa Miguel Chaiwa,CHAIWA,MF,07.06.2004,Zambia,BSC YOUNG BOYS,Suisse
+6,Benson Sakala,SAKALA,MF,12.09.1996,Zambia,FK MLADA,République tchèque
+7,Kelvin Mubanga Kampamba,KAMPAMBA,MF,24.11.1996,Zambia,ZESCO UNITED FC,Zambie
+8,Sailas Lubambo Musonda,MUSONDA,MF,01.03.1995,Zambia,SILKBORG,Danemark
+9,Lameck Banda,BANDA,FW,29.01.2001,Zambia,LEECE,Italie
+10,Fashon Junior Sakala,SAKALA,FW,14.03.1997,Zambia,Al Fayha club,Arabie Saoudite
+11,Rally Bwalya,BWALYA,MF,29.05.1995,Zambia,Sekhukhune United FC,"Afrique
+Du Sud"
+12,Emmanuel Junior Banda,BANDA,MF,29.09.1997,Zambia,REIJKA FC,Croatie
+13,Stoppila Sunzu,SUNZU,DF,22.06.1989,Zambia,JINAN QINGDAO,Chine
+14,Edward Chilufya,CHILUFYA,MF,17.09.1999,Zambia,BK Hacken,Suède
+15,Kelvin Kapumbu,KAPUMBU,MF,06.04.1996,Zambia,Zanaco Football Club,Zambie
+16,Lawrence Mulenga,MULENGA,GK,21.08.1996,Zambia,"Power Dynamos Football Club
+",Zambie
+17,Clatous Chama,CHAMA,MF,18.06.1991,Zambia,SIMBA FC,Tanzanie
+18,Francis Mwansa,MWANSA,GK,17.03.2002,Zambia,Green Buffaloes FC,Zambie
+19,Fredrick Mulambia,MULAMBIA,MF,10.07.1999,Zambia,Power Dynamos FC,Zambie
+20,Patson Daka,DAKA,FW,09.10.1998,Zambia,LEICESTER CITY,Angleterre
+21,Dominic Chanda,CHANDA,DF,26.02.1996,Zambia,KABWE WARRIORS,Zambie
+22,Kings Kangwa,KANGWA,MF,06.04.1999,Zambia,Red Star,Serbie
+23,Rodrick Kabwe,KABWE,DF,30.11.1992,Zambia,ZAHKO FC,Irak
+24,Golden Mafwenta,MAFWENTA,MF,15.01.2001,Zambia,MFK vyskov,"République
+tchèque"
+25,Kennedy Musonda,MUSONDA,FW,22.12.1994,Zambia,YANGA SC,Tanzanie
+26,Tandi Mwape,MWAPE,DF,20.07.1996,Zambia,TP MAZEMBE,Congo
+27,Gift Prosper Mphande,MPHANDE,DF,12.02.2003,Zambia,,
